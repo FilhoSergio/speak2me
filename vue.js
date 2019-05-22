@@ -25,7 +25,7 @@ new Vue({
       },
       {
         key: 'j',
-        code: 85,
+        code: 74 ,
         file: 'cj',
         selected: false
       },
