@@ -23,6 +23,12 @@ new Vue({
         file: 'squirtle',
         selected: false
       },
+      {
+        key: 'j',
+        code: 85,
+        file: 'cj',
+        selected: false
+      },
     ]
   },
   created () {
